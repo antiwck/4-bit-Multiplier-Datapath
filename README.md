@@ -9,11 +9,11 @@ The timing for the dataflow is controlled by a clock signal and the loading of r
 
 <br />
 <p align="center">
-  ![Datapath Design](https://github.com/antiwck/4-bit-Multiplier-Datapath/blob/888b7289f3dd57e0bd18e78a9959bef06a4a0b01/Sources/Datapath%20design.jpg)
+  <img src="https://github.com/antiwck/4-bit-Multiplier-Datapath/blob/888b7289f3dd57e0bd18e78a9959bef06a4a0b01/Sources/Datapath%20design.jpg/">
 </p>
 <br />
 <p align="center">
-![Result computation](https://github.com/antiwck/4-bit-Multiplier-Datapath/blob/888b7289f3dd57e0bd18e78a9959bef06a4a0b01/Sources/Result.jpg)
+  <img src="[http://some_place.com/image.png](https://github.com/antiwck/4-bit-Multiplier-Datapath/blob/888b7289f3dd57e0bd18e78a9959bef06a4a0b01/Sources/Result.jpg)"/>
 </p>
 
 First computation:<br />
