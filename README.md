@@ -7,17 +7,21 @@ The datapath consists of two 4-bit registers, one 4-bit multiplier and one 8-bit
 The 4-bit register stores the value for the two binary numbers and the 8-bit register store the final computed result.
 The timing for the dataflow is controlled by a clock signal and the loading of register is dependent on the rising clock edge.
 
-
-![Datapath Design](https://github.com/antiwck/4-bit-Multiplier-Datapath/blob/888b7289f3dd57e0bd18e78a9959bef06a4a0b01/Sources/Datapath%20design.jpg)
-
+<br />
+<p align="center">
+  ![Datapath Design](https://github.com/antiwck/4-bit-Multiplier-Datapath/blob/888b7289f3dd57e0bd18e78a9959bef06a4a0b01/Sources/Datapath%20design.jpg)
+</p>
+<br />
+<p align="center">
 ![Result computation](https://github.com/antiwck/4-bit-Multiplier-Datapath/blob/888b7289f3dd57e0bd18e78a9959bef06a4a0b01/Sources/Result.jpg)
+</p>
 
-First computation:
-First number  : 0110 (6)
-Second number : 1100 (12)
-Result        : 01001000 (72)
-
-Second computation:
-First number  : 0010 (2)
-Second number : 0001 (1)
-Result        : 00000010 (2)
+First computation:<br />
+First number  : 0110 (6)<br />
+Second number : 1100 (12)<br />
+Result        : 01001000 (72)<br />
+<br />
+Second computation:<br />
+First number  : 0010 (2)<br />
+Second number : 0001 (1)<br />
+Result        : 00000010 (2)<br />
