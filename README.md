@@ -1,5 +1,5 @@
-# 4-bit-Multiplier-Datapath
-A 4-bit multiplier designed using Datapath concept which allows timing to be adjusted to control data flow of computation.
+# 4-bit-Multiplier-Datapath-using-Half-Adders-and-Full-Adders
+A 4-bit multiplier designed using datapath concept which allows timing to be adjusted to control data flow of computation.
 
 The program is compiled in Intel Quartus Prime and run under the testbench to perform the functional computation.
 The 4-bit multiplier takes two 4-bit number in binary and multiply the two to produce a result that reflects the computation.
